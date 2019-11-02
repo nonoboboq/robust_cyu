@@ -1,9 +1,9 @@
 # Basic
 title: 萝卜丝特
-subtitle: 测试0
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">测试1</a>
+subtitle: 测试
+welcome_message: <a href="" target="_blank">测试1</a>
 description: for 测试.
-creator: <a href="http://onev.cat">@onevcat</a>
+#creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "https://github.com/nonoboboq/robust_cyu"
 
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'https://github.com/nonoboboq/robust_cyu'}
+    - {title: 项目, description: 我的项目, url: 'https://github.com/nonoboboq/robust_cyu'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -32,7 +32,7 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
+    disqus: 大萝卜
     # duoshuo: 
     
 # Social
