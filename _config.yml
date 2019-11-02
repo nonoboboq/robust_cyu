@@ -1,11 +1,10 @@
 # Basic
-title: 萝卜丝特
-subtitle: 测试
-welcome_message: <a href="" target="_blank">测试1</a>
-description: for 测试.
-#creator: <a href="http://onev.cat">@onevcat</a>
+title: 陈贤靖
+subtitle: 井与陆地，海和岛屿。
+description: Android Developer.
+creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "https://github.com/nonoboboq/robust_cyu"
+url: "https://amazingchen.github.io/#blog"
 
 permalink: /:year/:month/:title/
 
@@ -13,16 +12,16 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: blue
+# cover_color: red
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客
-    description: 访问博客
+    title: Blog
+    description: Visit blog
 
 # Navigation buttons in the front page.
 nav:
-    - {title: 项目, description: 我的项目, url: 'https://github.com/nonoboboq/robust_cyu'}
+    - {title: Projects, description: My Projects, url: 'https://github.com/AmazingChen/VHabit'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -32,16 +31,13 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: 大萝卜
+    disqus: vno-jekyll
     # duoshuo: 
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    github: AmazingChen
+    mail: shixianjingla@gmail.com
 
 # Google Analytics
 ga:
