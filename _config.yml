@@ -2,7 +2,11 @@
 title: 沧彧
 subtitle: 春天里的油菜花
 description: 学习 思考 进步.
+welcome_message: <a href="https://github.com/nonoboboq/robust_cyu.github.io.git" target="_blank">Download the theme</a>
+description: 我的page.
+creator: <a href="http://onev.cat">@onevcat</a>
 
+url: "http://vno.onevcat.com"
 
 permalink: /:year/:month/:title/
 
